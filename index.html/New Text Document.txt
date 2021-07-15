@@ -1,0 +1,1571 @@
+
+<!--
+ /**
+ *
+ * Client: Sant Atulanand Residential Academy
+ * @link https://saravns.ac.in/
+ * Built By: Edunext Technologies Pvt. Ltd.
+ * Website Developer: Rajendra Singh	
+ * Dated: October 5th 2020
+ * Live on: 
+ *
+ */
+-->
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head><title>Sant Atulanand Residential Academy (SARA) - Best CBSE Boarding School in Varanasi</title>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-05M4M8SSF9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-05M4M8SSF9');
+</script>
+    <meta name="google-site-verification" content="4CCpIPHkH1x0sySeYenfBZ2o0BA5-GG-E27fdm_nrAY" />
+<meta charset="utf-8" />
+<meta http-equiv="Cache-Control" content="no-cache"/>
+<meta http-equiv="Expires" content="-1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="keywords" content="" >
+<meta name="description" content="Best CBSE Boarding School in Varanasi: Sant Atulanand Residential Academy (SARA) is a temple of education in the city of temples (Varanasi), founded by Dr. Raj Singh." >
+
+<link rel="shortcut icon" href="images/favicon.png">
+<link rel="stylesheet" href="css/font-lib.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="css/tango/skin.css" />
+<!--<link rel="stylesheet" href="css/colorbox.css" />-->
+<link rel="stylesheet" href="css/layerslider/layerslider.css" />
+<link rel="stylesheet" href="css/bootstrap.css" />
+<link rel="stylesheet" href="css/style.css" />
+<link rel="stylesheet" href="css/custom.css" />
+<link rel="stylesheet" href="css/responsive.css" />
+<link rel="stylesheet" href="css/color-01.css" id="site-color" />
+<link rel="stylesheet" href="css/hover.css" media="all">
+<link rel="stylesheet" href="css/jalendar.css" type="text/css" />
+<link rel="stylesheet" href="css/style-main.css" type="text/css" />
+<link rel="stylesheet" href="css/alert.css" type="text/css" />
+<link href="css/skeletabs.css?v=83" rel="stylesheet" type="text/css">
+<link href="css/slick.css" rel="stylesheet" type="text/css">
+<link href="css/maincs.css" rel="stylesheet" type="text/css">
+
+<!-- Attach our CSS -->
+<link rel="stylesheet" href="css/reveal.css">
+<link rel="stylesheet" href="css/animate.css">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
+<!-- login page --->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+<!-- //////////////////////////////////////////////// -->
+<!-- REQUIRED ELEMENTS -->
+<link rel="stylesheet" href="css/preview-image.min.css" />
+
+<!-- //////////////////////////////////////////////// -->
+<!-- //////////////////////////////////////////////// -->
+<!-- Gallery Code Start -->
+<link rel="stylesheet" href="css/colorbox_new.css" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<!-- Gallery Code Start for next and Prev -->	
+<script>
+			$(document).ready(function(){
+				//Examples of how to assign the Colorbox event to elements
+				$(".group1").colorbox({rel:'group1'});
+				$(".group2").colorbox({rel:'group2', transition:"fade"});
+				$(".group3").colorbox({rel:'group3', transition:"none", width:"75%", height:"75%"});
+				$(".group4").colorbox({rel:'group4', slideshow:true});
+				$(".ajax").colorbox();
+				$(".youtube").colorbox({iframe:true, innerWidth:640, innerHeight:390});
+				$(".vimeo").colorbox({iframe:true, innerWidth:500, innerHeight:409});
+				$(".iframe").colorbox({iframe:true, width:"80%", height:"80%"});
+				$(".inline").colorbox({inline:true, width:"50%"});
+				$(".callbacks").colorbox({
+					onOpen:function(){ alert('onOpen: colorbox is about to open'); },
+					onLoad:function(){ alert('onLoad: colorbox has started to load the targeted content'); },
+					onComplete:function(){ alert('onComplete: colorbox has displayed the loaded content'); },
+					onCleanup:function(){ alert('onCleanup: colorbox has begun the close process'); },
+					onClosed:function(){ alert('onClosed: colorbox has completely closed'); }
+				});
+
+				$('.non-retina').colorbox({rel:'group5', transition:'none'})
+				$('.retina').colorbox({rel:'group5', transition:'none', retinaImage:true, retinaUrl:true});
+				
+				//Example of preserving a JavaScript event for inline calls.
+				$("#click").click(function(){ 
+					$('#click').css({"background-color":"#f00", "color":"#fff", "cursor":"inherit"}).text("Open this window again and this message will still be here.");
+					return false;
+				});
+			});
+</script>
+<!-- Gallery Code Start for next and Prev -->	
+<!--<link rel="stylesheet" href="css/erp-style.css">-->
+<!-- login page --->
+
+<style>
+.footer-bubble{color:#fff;}
+.goog-te-gadget-simple{background:transparent;color:#fff;border:0px;}
+.goog-te-gadget-simple .goog-te-menu-value{color:#fff !important;}
+.goog-te-gadget-icon{display:none;}
+.goog-te-menu-value span {border:0px !important;color:#fff !important;}
+.goog-te-menu-frame{z-index:10000002;position:fixed;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;_position:absolute}
+</style>
+
+<body>
+
+
+<!-- Mobile Menu Start -->
+	<div class="mobile-view mobile-menu">
+		<div class="mobile-view-school-name"><h2>Sant Atulanand Residential Academy<br><span>Varanasi</span></h2></div>
+    	<nav class="site-mobile-menu"><i class="icon-reorder"></i><ul class='sf-menu clearfix'><li class='wow fadeInLeft animate' data-wow-delay='0.2s'><a  href='index.php'> Home</a></li><li class='wow fadeInLeft animate'  data-wow-delay='0.11s'><a  href='#'>About Us</a><ul ><li ><a  href='#'>Principal's desk</a></li><li ><a  href='student-council'>Student Council</a></li><li ><a  href='student-club'>Students' Clubs</a></li><li ><a  href='synopsis-sara'>Synopsis on Sara</a></li><li ><a  href='campus'>Campus</a></li><li ><a  href='transportation'>Facilities</a></li><li ><a  href='location.php'>Location</a></li><li ><a  href='hostel.php'>Hostel</a></li><li ><a  href='documents-information'>Documents/Information</a></li><li ><a  href='Fee-Detail'>Fee Detail</a></li></ul></li><li class='wow fadeInLeft animate'  data-wow-delay='0.3s'><a  href='#'>History</a><ul ><li ><a  href='evolution'>Evolution</a></li><li ><a  href='founder-sara'>Founder of SARA</a></li><li ><a  href='visits-dignitaries'>Visits of Dignitaries</a></li><li ><a  href='alumni'>Alumni</a></li></ul></li><li class='wow fadeInLeft animate' data-wow-delay='0.4s'><a  href='board-governors'> Board of Governors</a></li><li class='wow fadeInLeft animate'  data-wow-delay='0.5s'><a  href='#'>Academics</a><ul ><li ><a  href='primary-section'>Primary Section</a></li><li ><a  href='junior-section'>Junior Section</a></li><li ><a  href='senior-section'>Senior Section</a></li><li  ><a  href='#'>Our Toppers </a><ul  class='sub-menu'><li ><a  href='TopperX'>Topper-X</a></li><li ><a  href='TopperXII'>Topper-XII</a></li></ul></li><li ><a  href='Result'>Result</a></li><li ><a  href='Calendar'>Academic Calendar</a></li></ul></li><li class='wow fadeInLeft animate'  data-wow-delay='0.6s'><a  href='#'>CBSE/NCERT</a><ul ><li ><a  href='http://www.cbseacademic.nic.in/'>CBSE Academics</a></li><li ><a  href='https://cbse.nic.in/newsite/'>CBSE Official Site</a></li><li ><a  href='transfer-certificate'>Transfer Certificate</a></li></ul></li><li class='wow fadeInLeft animate'  data-wow-delay='0.37s'><a  href='#'>Internationalism</a><ul ><li ><a  href='state-university'>Our Partnership With Ferris State University </a></li><li ><a  href='upcoming-projects-with-fsu'>Upcoming Projects With FSU </a></li></ul></li><li class='wow fadeInLeft animate' data-wow-delay='0.7s'><a  href='sports.php'> Sports</a></li><li class='wow fadeInLeft animate'  data-wow-delay='0.8s'><a  href='#'>Cultural</a><ul ><li ><a  href='tour-and-excursions'>Tour & Excursions</a></li><li ><a  href='visual-arts.php'>Visual Arts</a></li><li ><a  href='event-celebrations.php'>Events & Celebrations</a></li></ul></li><li class='wow fadeInLeft animate'  data-wow-delay='0.9s'><a  href='#'>Careers</a><ul ><li ><a  href='vacancies'>Vacancies</a></li><li ><a  href='http://edunextstudio.com/theme/sara/recruitment/index.php'>Teaching Staff</a></li></ul></li><li class='wow fadeInLeft animate'  data-wow-delay='0.53s'><a  href='#'>Gallery</a><ul ><li ><a  href='image-gallery.php'>Image Gallery</a></li><li ><a  href='video-gallery.php'>Video Gallery</a></li></ul></li><li class='wow fadeInLeft animate' data-wow-delay='0.10s'><a  href='#'> Contact Us</a></li></ul>		</nav>
+    </div>
+<!-- Mobile Menu End -->
+<style>
+.mobile-logo{
+	position: absolute;
+    left: 0px;
+    top: 0px;
+	z-index:3;
+}
+</style>
+<!-- Desktop Head Start -->
+<div class="main-content main-head">
+	<div class="container">
+		<div class="row">
+			<div class="span6">
+					<div class="logo  wow fadeInLeft animate" data-wow-delay=".2s"><a href="index.php"><img src="images/logo.png" alt="Sant Atulanand Residential Academy"></a>					
+					</div>
+					<div class="mobile-view" style="font-size: 12px;margin-left: 26px;font-weight: 700;margin-top: -10px;">A unit of SWAMI ATULANAND SEWA NYAS</div>
+			</div>
+		   <div class="span2 desktop-view">
+				<div class="quicklinks wow fadeInDown  animate">
+				<a style="" href="https://forms.edunexttechnologies.com/forms/sara/already-registered.php" target="_blank">Admission</a>
+				<a href="https://sarav.edunexttechnologies.com/Index" target="_blank"> ERP Login</a>
+			   </div>			   
+           </div>		   
+			<div class="span4 top-right  wow fadeInRight animate desktop-view" data-wow-delay=".4s"> 
+				<h3 class="unit-swami wow fadeInLeft animate" data-wow-delay=".3s">A unit of SWAMI ATULANAND SEWA NYAS</h3>
+                <ul> 
+                 <li> <a href="https://www.facebook.com/santatulanand" target="_blank"><img src="images/fb.png" title="SARA Facebook"> </a> </li>
+                 <li> <a href="https://www.linkedin.com/company/santatulanand/" target="_blank"> <img src="images/ld.png" title="SARA Linkedin">  </a></li>
+				 <li> <a href="https://twitter.com/SantAtulanand" target="_blank"> <img src="images/tw.png" title="SARA Twitter">  </a></li>
+				 <li> <a href="https://www.youtube.com/channel/UCn4aII2rzRWZGjQLyLhFZxA" target="_blank"> <img src="images/yt.png" title="SARA Youtube"> </a> </li>
+				 <li> <a href="https://www.instagram.com/santatulanand/" target="_blank"> <img src="images/inst.png" title="SARA Instagram"> </a> </li>
+				 <li> <a href="https://sara.almaconnect.com/" target="_blank"> <img src="images/alma.png" title="SARA Alma"> </a>  </li>
+                    <li> <a href="https://www.saravns.ac.in/" ><img src="images/SARA-Icon.png" title="SARA" style="height:48px;/* position: relative; */top: 0px;"></a> </li>
+                </ul>
+			</div>			
+		</div>
+			<div class="saralogo mobile-view wow fadeInDown animate" data-wow-delay=".6s">
+			<img style="width: 60px;" src="images/SARA-Icon.png" title="SARA"> </li>
+			</div>
+		<div class="row">
+			<div class="span12">
+			<nav class="site-desktop-menu" style="list-style: none;"><ul class='sf-menu clearfix'><li class='' data-wow-delay='0.2s'><a  href='index.php'> Home</a></li><li class=''  data-wow-delay='0.11s'><a  href='#'>About Us</a><ul ><li ><a  href='#'>Principal's desk</a></li><li ><a  href='student-council'>Student Council</a></li><li ><a  href='student-club'>Students' Clubs</a></li><li ><a  href='synopsis-sara'>Synopsis on Sara</a></li><li ><a  href='campus'>Campus</a></li><li ><a  href='transportation'>Facilities</a></li><li ><a  href='location.php'>Location</a></li><li ><a  href='hostel.php'>Hostel</a></li><li ><a  href='documents-information'>Documents/Information</a></li><li ><a  href='Fee-Detail'>Fee Detail</a></li></ul></li><li class=''  data-wow-delay='0.3s'><a  href='#'>History</a><ul ><li ><a  href='evolution'>Evolution</a></li><li ><a  href='founder-sara'>Founder of SARA</a></li><li ><a  href='visits-dignitaries'>Visits of Dignitaries</a></li><li ><a  href='alumni'>Alumni</a></li></ul></li><li class='' data-wow-delay='0.4s'><a  href='board-governors'> Board of Governors</a></li><li class=''  data-wow-delay='0.5s'><a  href='#'>Academics</a><ul ><li ><a  href='primary-section'>Primary Section</a></li><li ><a  href='junior-section'>Junior Section</a></li><li ><a  href='senior-section'>Senior Section</a></li><li  ><a  href='#'>Our Toppers </a><ul  class='sub-menu'><li ><a  href='TopperX'>Topper-X</a></li><li ><a  href='TopperXII'>Topper-XII</a></li></ul></li><li ><a  href='Result'>Result</a></li><li ><a  href='Calendar'>Academic Calendar</a></li></ul></li><li class=''  data-wow-delay='0.6s'><a  href='#'>CBSE/NCERT</a><ul ><li ><a  href='http://www.cbseacademic.nic.in/'>CBSE Academics</a></li><li ><a  href='https://cbse.nic.in/newsite/'>CBSE Official Site</a></li><li ><a  href='transfer-certificate'>Transfer Certificate</a></li></ul></li><li class=''  data-wow-delay='0.37s'><a  href='#'>Internationalism</a><ul ><li ><a  href='state-university'>Our Partnership With Ferris State University </a></li><li ><a  href='upcoming-projects-with-fsu'>Upcoming Projects With FSU </a></li></ul></li><li class='' data-wow-delay='0.7s'><a  href='sports.php'> Sports</a></li><li class=''  data-wow-delay='0.8s'><a  href='#'>Cultural</a><ul ><li ><a  href='tour-and-excursions'>Tour & Excursions</a></li><li ><a  href='visual-arts.php'>Visual Arts</a></li><li ><a  href='event-celebrations.php'>Events & Celebrations</a></li></ul></li><li class=''  data-wow-delay='0.9s'><a  href='#'>Careers</a><ul ><li ><a  href='vacancies'>Vacancies</a></li><li ><a  href='http://edunextstudio.com/theme/sara/recruitment/index.php'>Teaching Staff</a></li></ul></li><li class=''  data-wow-delay='0.53s'><a  href='#'>Gallery</a><ul ><li ><a  href='image-gallery.php'>Image Gallery</a></li><li ><a  href='video-gallery.php'>Video Gallery</a></li></ul></li><li class='' data-wow-delay='0.10s'><a  href='#'> Contact Us</a></li></ul></nav>
+			</div>
+		</div>
+	</div>
+</div>
+ 
+<!-- Desktop Head Start -->
+<!-- Covid Section -->
+<!--
+<div class="">
+  <div id="popUp" >
+    <div id="close" class="close"><i class="fa fa-times"></i></div>
+		<div id="new"><span>Covid Ready School</span></div>
+		<iframe width="100%" height="235" src="//www.youtube.com/embed/7AndjDuq8F4" frameborder="0" allowfullscreen=""></iframe>
+  </div>
+  <div id="plus"><span class="blink_me">Covid Ready School</span></div>
+</div>
+-->
+<!-- Covid Section -->
+<!-- Desktop Head Start -->
+
+<script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
+
+<style>
+.hp-hero {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: -webkit-linear-gradient(bottom, transparent 0%, rgba(0, 0, 0, 0.5) 100%);
+    background: linear-gradient(to top, transparent 0%, rgba(0, 0, 0, 0.5) 100%);
+    height: 30%;
+	z-index:-1;
+}
+</style>
+<style>
+.adminPopup{
+font-size: 19px; 
+font-family: 'Roboto'; 
+background: rgb(219 100 16 / .8); 
+padding: 10px 20px; 
+margin-right: 10px; 
+border-radius:25px; 
+box-shadow:0 4px 11px 0 rgba(0, 0, 0, 0.2), 0 6px 12px 0 rgba(0, 0, 0, 0.19); 		
+}
+</style>
+<!-- pop Code start -->
+<div class="">
+	<!--<div id="myModal" class="reveal-modal" style="z-index:100000; background-color: #e4e4e4;height: 386px; border-radius: 0;">-->
+	<!--	<div style="padding:10px;color:#fff;text-align:justify">-->
+	<!--		<p><a href="https://forms.edunexttechnologies.com/forms/sara/already-registered.php" target="_blank"> <img src="upload/popup/"></a> </p>-->
+	<!--    <p style="margin-top:31px; text-align:center;">-->
+	<!--	<span class="adminPopup"><a style="color:#000;" href="#" target="_blank">SARA</a></span>-->
+	
+	<!--	</p>				-->
+	<!--	</div>-->
+	<!--	<a class="close-reveal-modal">&#215;</a>-->
+	<!--</div>	-->
+</div>
+<div class="">
+	<div id="myModal" class="reveal-modal" style="z-index:100000; background-color: #e4e4e4;height: 386px; border-radius: 0;">
+		<div style="padding:10px;color:#fff;text-align:justify">
+			<p> <img src="upload/popup/497401615371587.gif"> </p>
+	    <p style="margin-top:31px; text-align:center;">
+		<span class="adminPopup"><a style="color:#000;" href="https://forms.edunexttechnologies.com/forms/sara/already-registered.php" target="_blank">Click here to apply for Online Admission</a></span>
+	
+		</p>				
+		</div>
+		<a class="close-reveal-modal">&#215;</a>
+	</div>
+	
+</div>
+<style>
+.fix_div {
+    position: absolute;
+    top: auto;
+    right: 0px;
+    /* z-index: 1; */
+    background: #db6410;
+    padding: 10px 20px;
+    top: 210px;
+    margin-right: 40px;
+    text-align: center;
+    border: 8px rgba(135, 194, 235, 0.15) solid;
+    background-clip: padding-box;
+    -webkit-box-shadow: 0px 5px 29px 0px rgba(0, 0, 0, 0.19);
+    box-shadow: 0px 5px 29px 0px rgba(0, 0, 0, 0.19);
+    outline: none;
+    border-radius: 100px;
+}
+    .covid-box{
+        top:280px;
+    }
+    @media (max-width:767px){
+       .covid-box {
+            top: 129px!important;
+            left: 33px !important;
+        }
+    }
+</style>
+<a href="pdf/Mobile-App.pdf" target="_blank">
+	<div class="fix_div wow fadeInUp animate  animated" data-wow-delay="0.1s" style="z-index: 1; visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+		<span style="color: #fff;font-weight: normal;">Mobile App Manual</span>
+	</div>
+</a>
+<a href="https://www.youtube.com/embed/7AndjDuq8F4" target="_blank">
+	<div class="fix_div wow fadeInUp animate  animated covid-box" data-wow-delay="0.1s" style="z-index: 1; visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+		<span style="color: #fff;font-weight: normal;" class="blink_me"> Covid Ready School</span>
+	</div>
+</a>
+<!-- Slider Start -->
+<div id="layerslider-container-fw" class="home-slider">
+	<div id="layerslider" style="width: 100%;  height:100% !important;margin: 0px auto; ">
+						
+				<div class="ls-layer">
+					<img src="images/slider/212911604414230slider.png" class="ls-bg" alt=" Sant Atulanand Residential Academy">					
+					<!--<p class="ls-s-2 block-2" style="slidedirection :left; slideoutdirection : right; 		durationin: 1000; easingin: easeOutExpo; delayin: 10; delayou: 1200;">Best School in Varanasi</p>-->
+				</div>
+					
+				<div class="ls-layer">
+					<img src="images/slider/43291604414270slider.jpg" class="ls-bg" alt=" Sant Atulanand Residential Academy">					
+					<!--<p class="ls-s-2 block-2" style="slidedirection :left; slideoutdirection : right; 		durationin: 1000; easingin: easeOutExpo; delayin: 10; delayou: 1200;">CBSE Boarding School in Varanasi - SARA</p>-->
+				</div>
+					
+				<div class="ls-layer">
+					<img src="images/slider/403581604414302slider.jpg" class="ls-bg" alt=" Sant Atulanand Residential Academy">					
+					<!--<p class="ls-s-2 block-2" style="slidedirection :left; slideoutdirection : right; 		durationin: 1000; easingin: easeOutExpo; delayin: 10; delayou: 1200;">SARA - Best CBSE School in Varanasi</p>-->
+				</div>
+					
+				<div class="ls-layer">
+					<img src="images/slider/786141604414338slider.jpg" class="ls-bg" alt=" Sant Atulanand Residential Academy">					
+					<!--<p class="ls-s-2 block-2" style="slidedirection :left; slideoutdirection : right; 		durationin: 1000; easingin: easeOutExpo; delayin: 10; delayou: 1200;">SARA - Best Residential School in Varanasi</p>-->
+				</div>
+					
+				<div class="ls-layer">
+					<img src="images/slider/716641615144063.jpg" class="ls-bg" alt=" Sant Atulanand Residential Academy">					
+					<!--<p class="ls-s-2 block-2" style="slidedirection :left; slideoutdirection : right; 		durationin: 1000; easingin: easeOutExpo; delayin: 10; delayou: 1200;">Sant Atulanand Residential Academy</p>-->
+				</div>
+					</div>
+</div>		
+<!-- Our Branches Start -->
+<div class="main-content mobile-view">
+	<div class="container">
+		<div class="row">
+		   <div class="span12">
+				<div class="quicklinks wow fadeInDown  animate">
+				<a style="" href="https://forms.edunexttechnologies.com/forms/sara/registration/index.php" target="_blank">Admission</a>
+				<a href="https://sarav.edunexttechnologies.com/Index" target="_blank" > ERP Login</a>			
+			   </div>			   
+           </div>
+         </div>
+	</div>	 
+</div>	
+<style>
+.import-notice
+{
+	background:#f6f6f6;
+	float:left;
+	padding:15px;
+	margin-bottom:10px;
+}
+</style>
+<div class="main-content important-main ">
+	<div class="container">
+		<div class="row">
+			<div class="span4" style="margin-bottom:20px">
+				<div class="import-notice wow fadeInLeft animate" data-wow-delay=".1s" >
+					 <h2 class="secheading-h2">IMPORTANT NOTICES<!-- <span style="margin-left:10px; color:#000">|</span> <a href="notice-list.php"><span style="font-size: 14px; text-shadow: none;color:#000">View All</span></a> 	---></h2>			
+						<div class="intro">
+							<iframe name="I1" src="event/index-event.php" scrolling="no" height="350px" width="100%" border="0" frameborder="0">
+							Your browser does not support inline frames or is currently configured not to display inline frames.
+							</iframe>
+						</div>
+				</div>
+			</div>
+			<div class="span4" style="margin-bottom:20px">
+			<div class="import-notice wow fadeInLeft animate" data-wow-delay=".2s" >
+				 <h2 class="secheading-h2">SCHOOL CIRCULAR<!--<span style="margin-left:10px; color:#000">|</span> <a href="circular-list.php"><span style="font-size: 14px; text-shadow: none;color:#000">View All</span></a>-->	</h2>			
+					<div class="intro">
+						<iframe name="I1" src="event/school-circular.php" scrolling="no" height="350px" width="100%" border="0" frameborder="0">
+						Your browser does not support inline frames or is currently configured not to display inline frames.
+						</iframe>
+					</div>
+			</div>
+			</div>
+			<div class="span4 wow fadeInRight animate" data-wow-delay=".3s" style="float:left;background:#faf9fe;border:3px solid #d57833">
+			<h2 class="secheading-h2 calendar-header">EVENT CALENDAR</h2>	
+				<div class="intro" style="background:;float:left;width:100%;height:428px;margin-top:-63px">
+					<iframe src="calendar/index.php" name="I1" width="100%" height="428" frameborder="0" scrolling="no">Your browser does not support inline frames or is currently configured not to display inline frames.</iframe>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="main-content iconsscrollable desktop-view" >
+	<div class="container">
+		<div class="row ">
+			<p class="globalval">Global Education with Indian Values</p>						
+		</div>
+	</div>
+</div>
+<!--- New Section Start --->
+<div class="main-content desktop-view" style="background:#fff;margin-bottom:40px;">
+	<div class="container">
+		<div class="row">
+			<div class="span12">
+			<div class="fsElement fsContainer feature-grid" id="fsEl_1219" data-use-new="true">
+
+	<div class="fsElementContent" style="box-shadow: 0px 0px 18px #7b7a7a">
+			<div class="fsElement fsContent overview" id="fsEl_1232" data-use-new="true">
+
+				<div class="fsElementContent">
+			<p style="text-align:center;line-height: 30px;font-size: 18px;">"Situated away from the hustle and bustle of city life, amidst lush greenery of Holapur village is Sant Atulanand Residential Academy- a temple of education in the city of temples, founded by  Dr. Raj Singh. This school offers the perfect amalgamation of Science and Spirituality.
+			The campus, which is spread across 30 acres of green and serene land, provides the perfect setting for the holistic development of children."</p>
+				</div>
+			</div>
+			<div class="fsElement fsContent profile-box tall one" id="fsEl_1233" data-use-new="true">
+						<header>
+								<div class="fsElementHeaderContent">
+										<div>
+										<figure class="fsImage"><picture><img alt="SARA" id="" src="images/homedata/Admission.png" ></picture></figure>
+										</div>
+								</div>
+						</header>
+						<div class="fsElementContent">
+							<h3>Admission</h3>
+						</div>
+						<footer>
+							<div class="fsElementFooterContent">
+								<a href="admission-procedure.php" data-slide="1">Link</a>
+							</div>
+						</footer>
+			</div>
+			<div class="fsElement fsContent profile-box tall" id="fsEl_1236" data-use-new="true">
+				<header>
+					<div class="fsElementHeaderContent">
+						<div>
+							<figure class="fsImage"><picture><img alt="#" src="images/homedata/Infrastructure.png" ></picture></figure>
+							</div>
+					</div>
+				</header>
+				<div class="fsElementContent">
+						<h3>Infrastructure</h3>
+				</div>
+				<footer>
+					<div class="fsElementFooterContent">
+						<a href="infrastructure" data-slide="2">Link</a>
+					</div>
+				</footer>
+			</div>
+			<div class="fsElement fsContent profile-box short" id="fsEl_1241" data-use-new="true">
+				<header>
+					<div class="fsElementHeaderContent">
+						<div>
+							<figure class="fsImage"><picture><img alt="SARA" src="images/homedata/Beyond-Curriculum.png" ></picture></figure>
+							</div>
+					</div>
+				</header>
+				<div class="fsElementContent">
+						<h3>Beyound Curriculum</h3>
+				</div>
+				<footer>
+					<div class="fsElementFooterContent">
+						<a href="beyond-curriculum">Link</a>
+					</div>
+				</footer>
+			</div>
+			<div class="fsElement fsContent profile-box short" id="fsEl_1242" data-use-new="true">
+				<header>
+					<div class="fsElementHeaderContent">
+						<div>
+							<figure class="fsImage"><picture><img alt="SARA" src="images/homedata/AbhyudayaCoachingCenter.jpg" ></picture></figure>
+							</div>
+
+					</div>
+				</header>
+					<div class="fsElementContent">
+							<h3>Abhyuday Classes</h3>
+					</div>
+					<footer>
+						<div class="fsElementFooterContent">
+							<a href="abhyuday-classes">Link to Popup Slide</a>
+						</div>
+					</footer>
+			</div>
+			<div class="fsElement fsContent profile-box short" id="fsEl_1243" data-use-new="true">
+				<header>
+					<div class="fsElementHeaderContent">
+						<div>
+							<figure class="fsImage"><picture><img alt="SARA" src="images/homedata/Transport.png" ></picture></figure>
+						</div>
+					</div>
+				</header>
+				<div class="fsElementContent">
+						<h3>Transport</h3>
+				</div>
+				<footer>
+					<div class="fsElementFooterContent">
+						<a href="transportation">Link to Popup Slide</a>
+					</div>
+				</footer>
+			</div>
+			<div class="fsElement fsContent profile-box short" id="fsEl_1244" data-use-new="true">
+					<header>
+						<div class="fsElementHeaderContent">
+							<div>
+								<figure class="fsImage"><picture><img alt="SARA" src="images/homedata/Hostel.png" ></picture></figure>
+								</div>
+						</div>
+					</header>
+					<div class="fsElementContent">
+							<h3>Hostel</h3>
+
+					</div>
+					<footer>
+						<div class="fsElementFooterContent">
+							<a href="infra-hostel">Link</a>
+						</div>
+					</footer>
+			</div>
+			<div class="fsElement fsContent profile-box tall" id="fsEl_1239" data-use-new="true">
+					<header>
+						<div class="fsElementHeaderContent">
+							<div>
+							<figure class="fsImage"><picture><img alt="#" src="images/homedata/School-ERP.png" ></picture></figure>
+							</div>
+						</div>
+					</header>
+					<div class="fsElementContent">
+							<h3>School ERP</h3>
+
+					</div>
+					<footer>
+						<div class="fsElementFooterContent">
+							<a href="https://sarav.edunexttechnologies.com">Link</a>
+						</div>
+					</footer>
+			</div>
+			<div class="fsElement fsContent profile-box tall" id="fsEl_1240" data-use-new="true">
+				<header>
+						<div class="fsElementHeaderContent">
+							<div>
+							<figure class="fsImage"><picture><img alt="SARA" src="images/homedata/Internationalism.png" ></picture></figure>
+							</div>
+						</div>
+				</header>
+				<div class="fsElementContent">
+						<h3>Internationalism</h3>
+
+				</div>
+				<footer>
+					<div class="fsElementFooterContent">
+						<a href="state-university">Link to Popup Slide</a>
+					</div>
+				</footer>
+			</div>
+	</div>
+	</div>
+			</div>
+			
+		</div>
+	</div>
+</div>
+<!--- New Section End --->
+<!--- New Section Start --->
+<div class="main-content mobile-view" style="background:#fff;">
+	<div class="container">
+		<div class="row">
+		 <div class="span12 ">
+			<div id="sis-usp-mobile" class="mobile-view give">
+			<h3 style="text-align: center;float: none;font-size: 25px !important;margin-top: 20px;text-align: center;color:#db6410;line-height: 25px;">Global Education with Indian Values
+			</h3>
+			<p style="font-size: 14px;text-align: center;line-height: 20px;margin-top:17px;">"Situated away from the hustle and bustle of city life, amidst lush greenery of Holapur village is Sant Atulanand Residential Academy- a temple of education in the city of temples, founded by  Dr. Raj Singh. This school offers the perfect amalgamation of Science and Spirituality.
+			The campus, which is spread across 30 acres of green and serene land, provides the perfect setting for the holistic development of children."</p>
+				<ul>
+					<li class="usp" >
+							<img src="images/homedata/Admission.png" alt="SARA">
+							<a href="admission-procedure.php"><h1>Admission</h1></a>
+					</li>
+					<li class="usp" >
+							<img src="images/homedata/Infrastructure.png" alt="SARA">
+							<a href="infrastructure"><h1>Infrastructure</h1></a>
+					</li>
+					<li class="usp" >
+							<img src="images/homedata/Beyond-Curriculum.png" alt="SARA"><br>
+							<a href="beyond-curriculum"><h1>Beyond Curriculum</h1></a>
+					</li>
+					<li class="usp" >
+							<img src="images/homedata/AbhyudayaCoachingCenter.jpg" alt="r"><br>
+							<a href="abhyuday-classes"><h1>Abhyuday Classes</h1></a>
+					</li>
+					<li class="usp" >
+							<img src="images/homedata/Transport.png" alt="i"><br>
+							<a href="transportation"><h1>Transport</h1></a>
+					</li>
+					<li class="usp" >
+							<img src="images/homedata/Hostel.png" alt="SARA"><br>
+							<a href="infra-hostel"><h1>Hostel</h1></a>
+					</li>
+					<li class="usp" >
+							<img src="images/homedata/School-ERP.png" alt="SARA"><br>
+							<a href="https://sarav.edunexttechnologies.com"><h1>School ERP</h1></a>
+					</li>
+					<li class="usp" >
+							<img alt="SARA" src="images/homedata/Internationalism.png" >
+							<a href="state-university"><h1>Internationalism</h1></a>
+					</li>
+				</ul>
+				</div>
+			</div>
+			<!-- Mobile -->
+		</div>
+	</div>
+</div>
+<!--- New Section End --->
+<div class="main-content" style="background:#fff;padding-bottom:40px;">	
+	<div class="fsElement fsContainer infographics" id="fsEl_8970" data-use-new="true" style="background-image: url(images/BG-new.jpg);">
+		<header>
+			<div class="fsElementHeaderContent">
+				<!--<img width="1440" src="/uploaded/images/homepage/infographic-bg.jpg" alt="infograph">-->
+			</div>
+		</header>
+	<div class="fsElementContent desktop-view ">
+			<div class="fsElement fsContent float-me wow fadeInDown animate" data-wow-delay="0.1s" id="fsEl_8971" data-use-new="true" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInDown;" aria-hidden="true" tabindex="0">
+						<header>
+							<div class="fsElementHeaderContent">
+								<a data-page-name="Come for a Visit" href="happy-school" tabindex="-1">Learn</a>
+							</div>
+						</header>
+						<div class="fsElementContent">
+								<h3>A</h3>
+								<p>Happy School</p>
+						</div>
+			</div>
+
+			<div class="fsElement fsContent float-me wow fadeInDown animate" data-wow-delay="0.2s" id="fsEl_8972" data-use-new="true" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInDown;" aria-hidden="true" tabindex="-1">
+						<header>
+							<div class="fsElementHeaderContent">
+								<a data-page-name="Faculty &amp; Staff Directory" href="green-clean" tabindex="-1">Learn</a>
+							</div>
+						</header>
+						<div class="fsElementContent">
+								<h3> Campus</h3>
+								<p>Green, Clean and Serene</p>
+						</div>
+			</div>
+			<div class="fsElement fsContent float-me wow fadeInDown animate" data-wow-delay="0.3s" id="fsEl_8973" data-use-new="true" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;" aria-hidden="true" tabindex="-1">
+						<header>
+							<div class="fsElementHeaderContent">
+								<a data-page-name="Student Life" href="organic-dairy" tabindex="-1">Learn</a>
+							</div>
+							</header>
+							<div class="fsElementContent">
+									<h3>Organic</h3>
+									<p> Dairy and Farm</p>
+							</div>
+			</div>
+			<div class="fsElement fsContent float-me wow fadeInDown animate" data-wow-delay="0.4s" id="fsEl_8974" data-use-new="true" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInDown;" aria-hidden="true" tabindex="-1">
+				<header>
+					<div class="fsElementHeaderContent">
+						<a data-page-name="Tuition &amp; Financial Aid" href="sports-infra" tabindex="-1">Learn</a>
+					</div>
+				</header>
+				<div class="fsElementContent">
+						<h3>World</h3>
+						<p>Class Sports Infrastructure</p>
+				</div>
+			</div>
+			<div class="fsElement fsContent float-me wow fadeInDown animate" data-wow-delay="0.5s" id="fsEl_8975" data-use-new="true" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;" aria-hidden="true" tabindex="-1">
+				<header>
+					<div class="fsElementHeaderContent">
+						<a data-page-name="Academics" href="modern-classrooms" tabindex="-1">Learn</a>
+					</div>
+				</header>
+					<div class="fsElementContent">
+					<h3>Modern</h3>
+					<p>Classrooms</p>
+					</div>
+			</div>
+			<div class="fsElement fsContent float-me wow fadeInDown animate" data-wow-delay="0.6s" id="fsEl_8976" data-use-new="true" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInDown;" aria-hidden="true" tabindex="-1">
+				<header>
+					<div class="fsElementHeaderContent">
+						<a data-page-name="About Us" href="qualified-teachers" tabindex="-1">Learn</a>
+					</div>
+				</header>
+				<div class="fsElementContent">
+					<h3>Highly</h3>
+					<p>Qualified teachers</p>
+				</div>
+			</div>
+		</div>
+		<div class="fsElementContent mobile-view">
+			<div style="height: 135px; width: 160px; margin-top: 20px; font-size: 10px; visibility: visible; animation-delay: 0.1s; animation-name: fadeInDown;" class="fsElement fsContent float-me wow fadeInDown animate animated" data-wow-delay="0.1s" id="fsEl_8971" data-use-new="true" aria-hidden="true" tabindex="0">
+						<header>
+							<div class="fsElementHeaderContent">
+								<a data-page-name="Come for a Visit" href="happy-school" tabindex="-1">Learn</a>
+							</div>
+						</header>
+						<div class="fsElementContent" style="width: 150px;height: 150px;font-size: 12px;">
+								<h3 style="margin-bottom:10px;font-size: 20px;line-height: 16px;">A</h3>
+								<p>Happy School</p>
+						</div>
+			</div>
+
+			<div style="height: 135px; width: 160px; margin-top: 0px; font-size: 10px; visibility: visible; animation-delay: 0.2s; animation-name: fadeInDown;" class="fsElement fsContent float-me wow fadeInDown animate animated" data-wow-delay="0.2s" id="fsEl_8972" data-use-new="true" aria-hidden="true" tabindex="-1">
+						<header>
+							<div class="fsElementHeaderContent">
+								<a data-page-name="Faculty &amp; Staff Directory" href="green-clean" tabindex="-1">Learn</a>
+							</div>
+						</header>
+						<div class="fsElementContent" style=" width: 150px;height: 150px;font-size: 12px;">
+								<h3 style="margin-bottom:10px;font-size: 20px;line-height: 16px;">Campus</h3>
+								<p>Green, Clean and Serene </p>
+						</div>
+			</div>
+			<div style="height: 135px; width: 160px; margin-top: 0px; font-size: 10px; visibility: visible; animation-delay: 0.3s; animation-name: fadeInDown;" class="fsElement fsContent float-me wow fadeInDown animate animated" data-wow-delay="0.3s" id="fsEl_8973" data-use-new="true" aria-hidden="true" tabindex="-1">
+						<header>
+							<div class="fsElementHeaderContent">
+								<a data-page-name="Student Life" href="organic-dairy" tabindex="-1">Learn</a>
+							</div>
+							</header>
+							<div class="fsElementContent" style=" width: 150px;height: 150px;font-size: 12px;">
+									<h3 style="margin-bottom:10px;font-size: 20px;line-height: 16px;">Organic </h3>
+									<p>Dairy and Farm</p>
+							</div>
+			</div>
+			<div style="height: 135px; width: 160px; margin-top: 0px; font-size: 10px; float: right; top: 0px; position: absolute; margin-left: 235px; right: 5px; visibility: visible; animation-delay: 0.4s; animation-name: fadeInDown;" class="fsElement fsContent float-me wow fadeInDown animate animated" data-wow-delay="0.4s" id="fsEl_8974" data-use-new="true" aria-hidden="true" tabindex="-1">
+				<header>
+					<div class="fsElementHeaderContent">
+						<a data-page-name="Tuition &amp; Financial Aid" href="sports-infra" tabindex="-1">Learn</a>
+					</div>
+				</header>
+				<div class="fsElementContent" style=" width: 150px;height: 150px;font-size: 12px;">
+						<h3 style="margin-bottom:10px;font-size: 20px;line-height: 16px;">World</h3>
+						<p>Class Sports Infrastructure</p>
+				</div>
+			</div>
+			<div style="height: 135px; width: 160px; margin-top: 0px; font-size: 10px; float: right; bottom: 310px; visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;" class="fsElement fsContent float-me wow fadeInDown animate animated" data-wow-delay="0.5s" id="fsEl_8975" data-use-new="true" aria-hidden="true" tabindex="-1">
+				<header>
+					<div class="fsElementHeaderContent">
+						<a data-page-name="Academics" href="modern-classrooms" tabindex="-1">Learn</a>
+					</div>
+				</header>
+					<div class="fsElementContent" style=" width: 150px;height: 150px;font-size: 12px;">
+							<h3 style="margin-bottom:10px;font-size: 20px;line-height: 16px;">Modern</h3>
+					<p>Classrooms</p>
+					</div>
+			</div>
+			<div style="height: 135px; width: 160px; margin-top: 0px; font-size: 10px; float: right; bottom: 155px; left: 160px; visibility: visible; animation-delay: 0.6s; animation-name: fadeInDown;" class="fsElement fsContent float-me wow fadeInDown animate animated" data-wow-delay="0.6s" id="fsEl_8976" data-use-new="true" aria-hidden="true" tabindex="-1">
+				<header>
+					<div class="fsElementHeaderContent">
+						<a data-page-name="About Us" href="qualified-teachers" tabindex="-1">Learn</a>
+					</div>
+				</header>
+				<div class="fsElementContent" style=" width: 150px;height: 150px;font-size: 12px;">
+					<h3 style="margin-bottom:10px;font-size: 20px;line-height: 16px;">Highly</h3>
+					<p>Qualified Teachers</p>
+				</div>
+			</div>
+		</div>
+		<footer class="desktop-view" style="text-center;">
+			<div class="fsElementFooterContent">
+				<a href="image-gallery.php" data-page-name="Facts &amp; Figures">View More</a>
+			</div>
+		</footer>
+		<footer class="mobile-view" style="text-align:center;bottom: 5px;">
+			<div class="fsElementFooterContent">
+				<a href="image-gallery.php"  style="font-size: 10px;padding: 7px 7px; position:relative; z-index:99;">View More</a>
+			</div>
+		</footer>
+	</div>
+	</div>
+<style>
+  
+.Atula-Quicklink
+{
+	padding: 15px;
+   
+    font-size: 24px;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 0px 30px 0px 30px;
+    background: linear-gradient(to right, #fff 50%, #EE802F 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: all .5s ease-out;
+    color: #fff;
+    border: 3px solid #fff;
+    
+}
+.Atula-Quicklink:hover
+{
+	 background-position: bottom left; 
+  /* box-shadow: 0px 0px 5px #000000;*/
+    border:3px solid #EE802F;
+    color: #000;
+}
+ 
+</style>
+<div class="main-content mobile-view" style="background:#e4e4e4; padding:21px; margin-bottom:30px;">
+	<div class="container">
+		<div class="row">
+		 <div class="span12 ">
+			<div id="sara-yogantra" class="mobile-view give">
+				<ul>
+					<li class="usp">
+							<img src="images/02.png" style="width:100%" alt="SARA">							
+					</li>
+					<li class="usp" >
+							<img src="images/01.png" style="width:100%" alt="SARA">
+					</li>
+					<li class="usp" >
+							<img src="images/03.png" style="width:100%" alt="SARA">
+					</li>
+				</ul>
+				</div>
+			</div>
+			<!-- Mobile -->
+		</div>
+	</div>
+</div>
+<div class="main-content desktop-view" style="padding:30px 0px;background:#f6f6f6; margin-bottom:30px">
+	<div class="container">
+        <div class="row">
+		<div class="span4 round-bx-img-last">
+            <div class="round-bx-img"> <a href="https://online.fliphtml5.com/bqasn/fzev/#p=1"> <img src="images/02.png" /></a> </div>
+            </div>
+            <div class="span4 round-bx-img-last">
+                <div class="round-bx-img"><a href="pdf/About-Sara.pdf" target="_blank"><img src="images/01.png" /></a>  </div>            
+            </div>
+           
+            <div class="span4">
+            <div class="round-bx-img"><a href="Yugantar"> <img src="images/03.png" style="width:100%" /> </a></div>
+            </div>
+        </div>
+	</div>
+</div>	
+<!-- Testimonial Start  -->
+<div class="main-content" style="margin:30px 0px;"><!-- main-content padding:30px 0px;-->
+	<div class="container">
+		<div class="row">
+			<div class="span12">
+				<div class="testi">
+					<h2 class="testi">Testimonials</h2>
+					<p class="texti-p">What they said About SARA</p>
+				</div>
+			</div>
+			<div class="span4 wow fadeInRight animate" data-wow-delay=".2s"
+				style="float:left;background:#f6f6f6;margin-bottom:10px;">
+				<div class="testm-header">
+					<img src="images/testmImg.png" align="left">
+					<h2 class=""> Parents' Testimonials </h2>
+					<span> See what our School Parents say about us </span>
+				</div>
+
+				<div class="intro">
+					<div class="message" id="newsticker-demo">
+						<ul class="testimonial-ul">
+							<li>
+								<img src="images/Rishita's-Father.jpg" align="left">
+								”I always wanted my child to learn about India and its culture, to know more about our
+								‘SANATAN’ parampara. SARA is a school with perfect balance of learning, co-curricular
+								activities, global education and our core Indian values. And I thank this wonderful
+								institution for being the one stop place for these essential factors.”
+								<p> Father of Rishita Pandey </p>
+							</li>
+
+							<li>
+								<img src="images/Gargi's-father.jpg" align="left">
+								”I’m always happy and satisfied to see my child learn and grow day by day and the credit
+								for this goes to SARA. The campus is full of positive vibes and I couldn’t have thought
+								of a better residential school than this one in entire Purvanchal. I am glad I chose
+								SARA as my daughter’s second home, it has really shaped my girl into a beautiful human
+								being.”
+								<p> Father of Gargi Dwivedi </p>
+							</li>
+
+							<li>
+								<img src="images/Suryansh's-father.jpg" align="left">
+								”SARA has many qualities and facilities but I like the homely atmosphere of the school
+								the most. I didn’t have to think twice before dropping my son to hostel. I had left him
+								a shy, naïve boy and I see him now as a confident, intellectual and decent young man.”
+								<p> Father of Suryansh Gupta </p>
+							</li>
+							<li>
+								<img src="images/Himanshi's-mother.jpg" align="left">
+								I have been really impressed by the relentless efforts of SARA in providing quality
+								education to my child. The positive ambience and aura of the school really helps
+								students in unleashing their true potentials.
+								<p> Mother of Himanshi Rai </p>
+							</li>
+							<li>
+								<img src="images/Vaishnavi's-mother.jpg" align="left">
+								”SARA emphasizes on character development, kindness, respect, honesty and
+								responsibility, which is really remarkable. It is more than a school, it is a ‘Temple of
+								education’ and I am happy that my child is a part of this temple.”
+								<p> Mother of Vaishnavi Baranwal </p>
+							</li>
+
+						</ul>
+
+						<div class="navigation-arrow">
+							<a class="prev" style="cursor:pointer;"><img src="images/Light-OrangeArrow.png"></a>
+							<a class="next" style="cursor:pointer;"><img src="images/Light-OrangeArrow2.png"></a>					
+						</div>
+					</div>
+				</div>
+			</div>
+		
+			<div class="span4 wow fadeInRight animate" data-wow-delay=".4s"
+				style="float:left;background:#f6f6f6;margin-bottom:10px;">
+				<div class="testm-header">
+					<img src="images/testmImg.png" align="left">
+					<h2 class=""> Teachers' Testimonials </h2>
+					<span> See what our School Teachers say about us </span>
+				</div>
+				<div class="intro">
+					<div class="message" id="newsticker-teacher">
+						<ul class="testimonial-ul">
+
+							<li>
+								<img src="images/Rati-Suri.jpg" align="left">
+								“SARA is a school where Nature and Nurture go hand in hand. Its clean, green and serene
+								ambience provides the perfect setting for the all round development of the students. We
+								have kids from primary to Class12 and our staff gives personal attention to each
+								hosteller. Our day scholars also find peace, tranquility and perfect atmosphere of
+								learning in the school.”
+								<p> Rati Suri <br> (PRT) </p>
+							</li>
+
+							<li>
+								<img src="images/Swati-Singh.jpg" align="left">
+								“SARA is well equipped with all the modern amenities which are conducive for the
+								learning process of students. Our teachers are committed to teaching and always go that
+								extra step to provide the best education. More than grades and marks, our school focuses
+								on Holistic education. With prime focus on the values of ‘Sanatan Dharma’, our school is
+								indeed one of a kind in Purvanchal.”
+								<p> Swati Singh <br> (PGT Geography) </p>
+							</li>
+
+							<li>
+								<img src="images/Manali-Singh.jpg" align="left">
+								“SARA is certainly one of the finest schools in the city. I have been associated with
+								many reputed schools in my teaching journey and the atmosphere here at SARA is
+								phenomenal for both the teachers and students.
+								I take immense pride in being a part of this school and I wish we will be able to
+								deliver the best learning experience to the students”
+
+								<p> Manali Singh <br> (PRT) </p>
+							</li>
+
+							<li>
+								<img src="images/Apoorvi-Rai.jpg" align="left">
+								”SARA inculcates both, Indian values and Global vision in its students. The campus, with
+								its green, idyllic settings and modern infrastructure, is favourable for learning and
+								growing. Our students go in for ‘Havan samaroh’ and at the same time participate as
+								delegates in MUN. So, if you want your child to get endowed with all the skills required
+								to make it big in this fast changing world, then SARA is the school for you.”
+								<p> Apoorvi Rai <br> (PGT English) </p>
+							</li>
+
+
+						</ul>
+						<div class="navigation-arrow">
+							<a class="prev" style="cursor:pointer;"><img src="images/Light-OrangeArrow.png"></a>
+							<a class="next" style="cursor:pointer;"><img src="images/Light-OrangeArrow2.png"></a>
+						</div>
+
+					</div>
+				</div>   
+            </div>
+					<div class="span4 wow fadeInRight animate" data-wow-delay=".6s"
+						style="float:left;background:#f6f6f6;margin-bottom:10px;">
+						<div class="testm-header">
+							<img src="images/testmImg.png" align="left">
+							<h2 class=""> Students' Testimonials </h2>
+							<span> See what our School Students say about us </span>
+						</div>
+						<div class="intro">
+							<div class="message" id="newsticker-student">
+								<ul class="testimonial-ul">
+
+									<li>
+										<img src="images/Harshita-Singh.jpg" align="left">
+										”My green, clean and beautiful school, SARA, is one of a kind. I haven’t seen
+										any school in Varanasi which is nestled in greenery, away from the hustle and
+										bustle of the city and provides quality education to its students. From local to
+										global, we find all type of exposure and platform to showcase our talent.”
+
+										<p> Harshita singh (12 c1) <br> (Former student) </p>
+									</li>
+									<li>
+										<img src="images/Avinash.jpg" align="left">
+										”It is our school that endows us with the right values at an early age. SARA has
+										always imparted right values and education in its students. Its clean and green
+										campus is a perfect atmosphere for nurturing children.”
+										<p> Avinash Kumar Sirvastava (12 c2) <br> (Former student)
+										</p>
+									</li>
+									<li>
+										<img src="images/Yamshee-Azaz.jpg" align="left">
+										”I just want to express my very special gratitude to my school and teachers for
+										making such efforts to keep us going in this competitive world. SARA is a
+										‘Gurukul’ in its truest sense and aims at all round development of its
+										students.”
+
+										<p> Yanshee Ajaz (12 C3)<br> </p>
+									</li>
+									<li>
+										<img src="images/Poonam-Mourya.jpg" align="left">
+										”SARA taught me to overcome my shyness, to overcome my fear, to overcome all the
+										obstacles and to fight for success. I'm really grateful to the authorities of
+										SARA for being so supportive and encouraging always. The hostel life facilitates
+										in bringing to fore the inane talents of students and to make them ready to take
+										on the world.”
+
+										<p> Poonam Maurya (12 C2) </p>
+									</li>
+									<li>
+										<img src="images/Anshika.jpg" align="left">
+										I am really thankful to SARA for providing guidance to me in my academic journey
+										till now. The deliberate efforts of teachers and the management in providing
+										standard education are really appreciable.
+
+										<p> Anshita Rai (12 c1) <br> </p>
+									</li>
+
+
+								</ul>
+
+
+								<div class="navigation-arrow">
+									<a class="prev" style="cursor:pointer;"><img src="images/Light-OrangeArrow.png"></a>
+									<a class="next" style="cursor:pointer;"><img src="images/Light-OrangeArrow2.png"></a>
+                                </div>
+										
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+</div>
+						<!-- Testimonial End  -->
+<style>
+.flink > ul >li > a{color:#e4e4e4;}
+
+</style>
+
+<footer id="footer-offset">
+    <div class="ftb">
+    <div class="container">
+        <h3> <a href="#" target="_blank">"SANT ATULANAND RESIDENTIAL ACADEMY"</a> </h3>
+    </div>
+</div>
+    <div  class="site-footer">
+	<div class="container">
+    	<div class="row desktop-view">
+            <div class="span2">
+            <ul> 
+                <li><a href="evolution"> Evolution</a></li>
+               <li><a href="founder-sara"> Founder of SARA </a></li>
+               <li><a href="board-governors"> Board of Governors</a></li>               
+                </ul>
+            </div>
+            <div class="span2">
+            <ul> 
+                   <li><a href="campus"> Campus</a></li>
+                   <li><a href="hostel.php"> Hostel</a></li>
+                   <li><a href="facilities">Facilities</a></li>
+                   
+                </ul>
+            </div>
+            <div class="span2">
+            <ul> 
+            <li><a href="primary-section"> Primary Section </a></li>               
+                   <li><a href="junior-section">Secondary Section</a></li>
+                   <li><a href="senior-section">Senior Section</a></li>                
+                </ul>
+            </div>
+            <div class="span2">
+            <ul> 
+                <li><a href="sports"> Sports </a></li>
+                 <li><a href="tour-and-excursions"> Tour and Excursions </a></li>
+                 <li><a href="event-celebrations.php">Events and Celebrations </li>                
+                </ul>
+            </div>
+             <div class="span2">
+            <ul> 
+                <li><a href="visual-arts.php"> Visual Arts </a></li>
+                 <li><a href="student-council"> Student Council </a></li>
+                 <li><a href="student-club">Student Clubs </a></li>                
+                </ul>
+            </div>			
+            <div class="span2">
+            <ul> 
+                <li><a href="state-university"> Internationalism</a></li>
+                 <li><a href="http://www.cbseacademic.nic.in"> CBSE/NCERT </a></li>
+                 <li><a href="contact-us.php"> Contact Us</a></li>                
+                </ul>
+            </div>
+            <div>
+            <div class="span12 top-right  wow fadeInRight animate mobile-view" data-wow-delay=".4s"> 
+			
+                <ul class="mobile-social"> 
+                 <li> <a href="https://www.facebook.com/santatulanand" target="_blank"><img src="images/fb.png" title="SARA Facebook"> </a> </li>
+                 <li> <a href="https://www.linkedin.com/in/sant-atulanand-residential-academy-95937a179" target="_blank"> <img src="images/ld.png" title="SARA Linkedin">  </a></li>
+				 <li> <a href="https://twitter.com/AcademySant" target="_blank"> <img src="images/tw.png" title="SARA Twitter">  </a></li>
+				 <li> <a href="https://www.youtube.com/channel/UCn4aII2rzRWZGjQLyLhFZxA" target="_blank"> <img src="images/yt.png" title="SARA Youtube"> </a> </li>
+				 <li> <a href="https://www.instagram.com/santatulanand/?igshid=a6n9b6xzd61d" target="_blank"> <img src="images/inst.png" title="SARA Instagram"> </a> </li>
+			
+				
+                </ul>
+			</div>	
+<style>
+.lst-ft1 {
+    text-align: center;
+    font-size: 12px;
+    border-top: 1px solid #2f2d2d;
+    margin: 16px auto 0;
+    line-height: 15px;
+}	
+.lst-ft2 {
+    text-align: center;	
+    margin: 16px auto 0;	
+    border-top: 1px solid #2f2d2d;
+    line-height: 15px;	
+}
+.lst-ft2 img{
+	margin-top:21px;
+}
+</style>			
+            <div class="span6 lst-ft1">
+					<p> © 2020 Sant Atulanand Residential Academy.<br> All rights reserved.<br>
+	Powered by  <a href="https://www.edunexttechnologies.com/" style="color:#fbe55e" target="_blank"> Edunext Technologies</a></p>
+		   </div>
+             <div class="span6 lst-ft2">
+					<a target="_blank" href="https://play.google.com/store/apps/details?id=com.edunext.sarav"><img src="images/android.png"></a>
+					<a target="_blank" href="https://apps.apple.com/in/app/edunext-app/id1174832418"><img src="images/apple.png"></a>			
+		   </div>           
+                </div>
+                
+        </div>
+		
+    	<div class="row mobile-view">
+            <div class="span2">
+            <ul> 
+                <li><a href="evolution"> Evolution</a></li>
+               <li><a href="founder-sara"> Founder of SARA </a></li>
+               <li><a href="board-governors"> Board of Governors</a></li>               
+                </ul>
+            </div>
+            <div class="span2">
+            <ul> 
+                   <li><a href="campus"> Campus</a></li>
+                   <li><a href="hostel.php"> Hostel</a></li>
+                   <li><a href="facilities">Facilities</a></li>
+                   
+                </ul>
+            </div>
+            <div class="span2">
+            <ul> 
+            <li><a href="primary-section"> Primary Section </a></li>               
+                   <li><a href="junior-section">Secondary Section</a></li>
+                   <li><a href="senior-section">Senior Section</a></li>                
+                </ul>
+            </div>
+            <div class="span2">
+            <ul> 
+                <li><a href="sports"> Sports </a></li>
+                 <li><a href="tour-and-excursions"> Tour and Excursions </a></li>
+                 <li><a href="event-celebrations.php">Events and Celebrations </li>                
+                </ul>
+            </div>
+             <div class="span2">
+            <ul> 
+                <li><a href="visual-arts.php"> Visual Arts </a></li>
+                 <li><a href="student-council"> Student Council </a></li>
+                 <li><a href="student-club">Student Clubs </a></li>                
+                </ul>
+            </div>			
+            <div class="span2">
+            <ul> 
+                <li><a href="state-university"> Internationalism</a></li>
+                 <li><a href="http://www.cbseacademic.nic.in"> CBSE/NCERT </a></li>
+                 <li><a href="contact-us.php"> Contact Us</a></li>                
+                </ul>
+            </div>
+            <div>
+            <div class="span12 top-right  wow fadeInRight animate mobile-view" data-wow-delay=".4s"> 
+			
+                <ul class="mobile-social"> 
+                 <li> <a href="https://www.facebook.com/santatulanand" target="_blank"><img src="images/fb.png" title="SARA Facebook"> </a> </li>
+                 <li> <a href="https://www.linkedin.com/in/sant-atulanand-residential-academy-95937a179" target="_blank"> <img src="images/ld.png" title="SARA Linkedin">  </a></li>
+				 <li> <a href="https://twitter.com/AcademySant" target="_blank"> <img src="images/tw.png" title="SARA Twitter">  </a></li>
+				 <li> <a href="https://www.youtube.com/channel/UCn4aII2rzRWZGjQLyLhFZxA" target="_blank"> <img src="images/yt.png" title="SARA Youtube"> </a> </li>
+				 <li> <a href="https://www.instagram.com/santatulanand/?igshid=a6n9b6xzd61d" target="_blank"> <img src="images/inst.png" title="SARA Instagram"> </a> </li>
+			
+				
+                </ul>
+			</div>	
+            <div class="span12 lst-ft">
+                <p> © 2020 Sant Atulanand Residential Academy.<br> All rights reserved.<br>
+				Powered by  <a href="https://www.edunexttechnologies.com/" style="color:#fbe55e" target="_blank"> Edunext Technologies</a></p>
+            </div>
+            
+                </div>
+                
+        </div>
+		
+    </div>
+        </div>
+</footer>
+
+<!-- to the top start //-->
+<div id="to-the-top"><i class="icon-angle-up"></i></div>
+<!-- to the top end //-->
+
+<!-- scripts start //-->
+
+<script src="js/preview-image.min.js"></script>
+
+
+
+<script src="js/jquery.js"></script>
+<script src="js/alert.js"></script>
+<script src="js/jquery-migrate-1.2.1.min.js"></script>
+<script src="js/modernizr.js"></script>
+<script src="js/layerslider.kreaturamedia.jquery.js"></script>
+<script src="js/layerslider.transitions.js"></script>
+<script src="js/jquery-easing-1.3.js" type="text/javascript"></script>
+
+<script src="js/jquery-transit-modified.js" type="text/javascript"></script>
+<script src="js/jquery.jcarousel.min.js"></script>
+<script src="js/jquery.colorbox.js"></script>
+<script src="js/custom.js"></script>
+<script src="js/shine.js"></script>
+
+<script src="js/portamento.js"></script>
+
+<script src="js/skeletabs.js"></script>
+<script>
+$("#skltbsResponsive").skeletabs({
+	equalHeights: true,
+	animation: "fade-scale",
+	autoplay: true,
+    autoplayInterval: 60000,
+responsive: {
+breakpoint: 800,
+headingTagName: "h4"
+}
+});
+
+
+
+
+</script>
+
+<script type='text/javascript' src="js/jcarousellite.js"></script>
+<script type="text/javascript">
+    $(function() {
+        $(".carousel-no-style").jCarouselLite({            
+            speed: 2500,
+            scroll: 1,                  
+            auto: true,
+            visible: 6,
+             });
+
+
+             $(".alumni-bg").jCarouselLite({ 
+             speed:2000,
+            //  afterEnd    : function(el) { $(el).parent().fadeTo(1800, 1); },
+            //  beforeStart : function(el) { $(el).parent().fadeTo(1600, 0); },
+             scroll: 1,                  
+             auto: true, 
+             visible: 1,
+             });  
+
+             $(".faculty").jCarouselLite({ 
+             speed:1900 ,
+            //  afterEnd    : function(el) { $(el).parent().fadeTo(1600, 1); },
+            //  beforeStart : function(el) { $(el).parent().fadeTo(1600, 0); },
+             scroll: 1,                  
+             auto: true, 
+             visible: 1,
+             });           
+        
+
+             $("#newsticker-demo").jCarouselLite({
+		horizontal: true,
+		hoverPause:true,
+		btnPrev: ".next",
+		btnNext: ".prev",
+		visible: 1,
+		auto:true,
+		speed:1000
+	});
+
+    $("#newsticker-teacher").jCarouselLite({
+		horizontal: true,
+		hoverPause:true,
+		btnPrev: ".next",
+		btnNext: ".prev",
+		visible: 1,
+		auto:2000,
+		speed:1000
+    });
+
+        $("#newsticker-student").jCarouselLite({
+		horizontal: true,
+		hoverPause:true,
+		btnPrev: ".next",
+		btnNext: ".prev",
+		visible: 1,
+		auto:2000,
+		speed:500
+	});
+    });
+</script>
+
+<script>
+	//$('#sidebar').portamento();	
+	$('#sidebar').portamento({wrapper: $('#wrapperid')});	// set #wrapper as the bottom boundary
+</script>
+<!--Page Animation scripts start -->
+<script src="js/wow.js"></script>
+<script src="js/scrollspy.js"></script>
+<script>
+  // Repeat demo content
+  var $body = $('body');
+  var $box = $('');
+  for (var i = 0; i < 20; i++) {
+    $box.clone().appendTo($body);
+  }
+
+  // Helper function for add element box list in WOW
+  WOW.prototype.addBox = function(element) {
+    this.boxes.push(element);
+  };
+
+  // Init WOW.js and get instance
+  var wow = new WOW();
+  wow.init();
+
+  // Attach scrollSpy to .wow elements for detect view exit events,
+  // then reset elements and add again for animation
+  $('.wow').on('scrollSpy:exit', function() {
+    $(this).css({
+      'visibility': 'hidden',
+      'animation-name': 'none'
+    }).removeClass('animated');
+    wow.addBox(this);
+  }).scrollSpy();
+
+</script>
+<!--Page Animation scripts end -->
+
+<!-- page load auto popup script-->
+<script type="text/javascript" src="js/jquery.reveal.js"></script>
+<script type="text/javascript" src="js/jquery.news.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+	
+	$(function() {
+	function showpanel() {
+		$('.reveal-modal').reveal({
+			animation: 'fadeAndPop',
+			animationspeed: 800
+			});
+		}
+		setTimeout(showpanel, 0000)
+	}); 
+	
+    
+	
+	$('#portfolio-list').magnisSort({
+		'showAll' : 1
+	});
+
+});	
+    
+      $(document).ready(function(){
+        $('.clickme a').click(function(){
+            $('.clickme a').removeClass('activelink');
+            $(this).addClass('activelink');
+            var tagid = $(this).data('tag');
+            $('.list').removeClass('active').addClass('hide');
+            $('#'+tagid).addClass('active').removeClass('hide');
+        });
+    });
+</script>
+<script>
+$(document).ready(function(){
+	
+	$(".sitemap-button").click(function() { 
+		var lable = $(".sitemap-button").text().trim();
+
+		if(lable == "Site Map +") {
+		 $(".sitemap-button").text("Site Map -");
+		 $(".myText").show();
+		}
+		else {
+		 $(".sitemap-button").text("Site Map +");
+		 $(".myText").hide();
+	   }   
+	});
+	
+	$("#gotoabout").click(function() {
+		$('html, body').animate({
+			scrollTop: $("#about").offset().top
+		}, 2000);
+	});
+	$("#gotocontent").click(function() {
+		$('html, body').animate({
+			scrollTop: $("#content").offset().top
+		}, 2000);
+	});
+	$("#gotoactivities").click(function() {
+		$('html, body').animate({
+			scrollTop: $("#activities").offset().top
+		}, 2000);
+	});
+	$("#gotowebzine").click(function() {
+		$('html, body').animate({
+			scrollTop: $("#webzine").offset().top
+		}, 2000);
+	});
+	
+    $("#hide").click(function(){
+        $(".cbox").fadeOut();
+    });
+    $("#show").click(function(){
+        $(".cbox").fadeIn();
+		new WOW().init();
+    });
+	$("#show1").click(function(){
+        $(".cbox").fadeIn();
+		new WOW().init();
+    });
+	$("#show2").click(function(){
+        $(".cbox").fadeIn();
+		new WOW().init();
+    });
+
+});
+
+
+</script>
+<!-- scripts end //-->
+
+<!-- page load auto popup script--> 
+<script>
+	$(window).onload = function(){
+	  document.getElementById("autoid").click();
+	}
+	/* scroll hide */
+	$(window).scroll(function () {
+		if ($(this).scrollTop() > 50) {
+			$('#scroll-hide').fadeIn();
+		} else {
+			$('#scroll-hide').fadeOut();
+		}
+	});
+	$('#scroll-hide').click(function() { $('body,html').animate({scrollTop: 0}, 2000); });
+</script>
+<!-- Scroll Nav -->
+
+<script>
+	$(window).onload = function(){
+	  document.getElementById("linkid").click();
+	}
+	/* scroll hide 
+	$(window).scroll(function () {
+		if ($(this).scrollTop() > 150) {
+			$('#scroll-hide-iconbar').slideUp();
+			$('#menu-button').slideUp();
+		} else {
+			$('#scroll-hide-iconbar').slideDown();
+			$('#menu-button').slideDown();
+		}
+	});	
+	$('#scroll-hide-iconbar').click(function() { $('body,html').animate({scrollTop: 0}, 1000); });*/
+</script>
+
+<script type="text/javascript"> 
+	$(document).ready(function(){       
+        var scroll_pos = 0;
+        $(document).scroll(function() {
+            scroll_pos = $(this).scrollTop();
+            if(scroll_pos > 150) {
+				 $(".main-head").css('background-color', 'rgb(255 255 255 / 1)');
+				 $(".main-head").css('border-bottom', '1px solid #000;');
+                $(".site-desktop-menu").css('border-top', '1px solid rgb(226 226 226 / .6)');
+				$('.logo').addClass('logo-on-scroll-top-show');
+				$('.unit-swami').addClass('unit-swami-small');
+				$(".top-right").css('margin-top', '12px');
+				
+            } else {
+                $(".main-head").css('background-color', 'rgb(255 255 255 / .5)');
+				$(".main-head").css('border-bottom', '0px solid #000;');
+				$(".site-desktop-menu").css('border-top', '1px solid rgb(255 255 255 / .6)');
+				$('.logo').removeClass('logo-on-scroll-top-show');
+				$('.unit-swami').removeClass('unit-swami-small');
+				$(".top-right").css('margin-top', '32px');
+            }
+        });
+    });
+</script>
+
+<script type="text/javascript" src="js/jalendar.min.js"></script>
+<script type="text/javascript">
+$(function () {
+    $('#yourId').jalendar({
+        color: '#fff', // Unlimited Colors
+        color2: '#fff', // Unlimited Colors
+    });
+	
+	$('.count').each(function () {
+    $(this).prop('Counter',0).animate({
+        Counter: $(this).text()
+    }, {
+        duration: 6000,
+        easing: 'swing',
+        step: function (now) {
+            $(this).text(Math.ceil(now));
+        }
+    });
+});
+});
+
+</script>
+
+<script>
+  // Repeat demo content
+  var $body = $('body');
+  var $box = $('');
+  for (var i = 0; i < 20; i++) {
+    $box.clone().appendTo($body);
+  }
+
+  // Helper function for add element box list in WOW
+  WOW.prototype.addBox = function(element) {
+    this.boxes.push(element);
+  };
+
+  // Init WOW.js and get instance
+  var wow = new WOW();
+  wow.init();
+
+  // Attach scrollSpy to .wow elements for detect view exit events,
+  // then reset elements and add again for animation
+  $('.wow').on('scrollSpy:exit', function() {
+    $(this).css({
+      'visibility': 'hidden',
+      'animation-name': 'none'
+    }).removeClass('animated');
+    wow.addBox(this);
+  }).scrollSpy();
+
+</script>
+<script type="text/javascript">
+$(function () {
+	$("#sis-usp-mobile").jCarouselLite({
+        horizontal: true,
+        hoverPause: true,
+        btnPrev: ".next-usp",
+        btnNext: " .previous-usp",
+        visible: 1,
+        auto: 3000,
+        speed: 800
+    });
+	
+});
+</script>
+<script type="text/javascript">
+$(function () {
+	$("#sara-yogantra").jCarouselLite({
+        horizontal: true,
+        hoverPause: true,
+        btnPrev: ".next-usp",
+        btnNext: " .previous-usp",
+        visible: 1,
+        auto: 3000,
+        speed: 800
+    });
+	
+});
+</script>
+	<script>
+	$(document).scroll(function() {
+	  var scroll = $(this).scrollTop();
+	  if (scroll >= 150) {
+		$("#popUp").css("margin-left", "-440px");
+		$("#plus").css("margin-left", "0px");
+	  }
+	});
+
+	$("#plus").click(function() {
+	  $("#popUp").css("margin-left", "0px");
+	  $("#plus").css("margin-left", "-440px");
+	});
+
+	$("#close").click(function() {
+	  $("#popUp").css("margin-left", "-440px");
+	  $("#plus").css("margin-left", "0px");
+	});
+	</script>
+
+</body>
+</html>
